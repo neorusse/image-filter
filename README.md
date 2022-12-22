@@ -1,6 +1,6 @@
 # Udagram Image Filtering Microservice
 
-[Udagram](http://image-filter-starter-code-dev222222222222222222222222.us-east-1.elasticbeanstalk.com/) is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
+[Udagram](http://image-filter-starter-code-dev222222222222222222222222.us-east-1.elasticbeanstalk.com/) is a simple Cloud Application developed alongside the Udacity Cloud DevOps Engineering Nano-Degree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
 The project is split into three parts:
 1. [The Simple Frontend](https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-frontend)
@@ -35,7 +35,7 @@ Deployed [Elastic Beanstalk App Endpoint url](http://image-filter-starter-code-d
 
 ## Stand Out (Optional)
 
-### Refactor the course RESTapi
+### Refactor the course RESTAPI
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
 
@@ -48,3 +48,7 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+### Author
+
+[Russell Nyorere](https://neorusse.github.io/)
